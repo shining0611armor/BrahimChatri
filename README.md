@@ -7,7 +7,6 @@
 
 ![Brahim Chatri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical)
 
-![Brahim Chatri's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrahimChatri&theme=dracula)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BrahimChatri)
 
