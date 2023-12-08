@@ -10,4 +10,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BrahimChatri)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BrahimChatri4?style=social)](https://twitter.com/Brahim_Chatri)
