@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Brahim Chatri! 👋
+# Hello, I'm Brahim ! 👋
 
 - 🌱 I’m currently learning Python.
 - 👨‍💻 Check out my [portfolio](https://github.com/BrahimChatri).
