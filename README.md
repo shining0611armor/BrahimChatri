@@ -7,15 +7,22 @@
 
 - 💬 Ask me about **Python and Software Development**
 
-- 📫 How to reach me **tanalt030@gmail.com**
+- 📫 How to reach me: [tanalt030@gmail.com](mailto:tanalt030@gmail.com)
 
 - ⚡ Fun Fact: **I'm constantly exploring new technologies and improving my coding skills!**
 
-<h3 align="left">My social :</h3>
+## Skills
+
+- **Languages**: Python
+- **Tools**: Git
+
+## Connect with Me
+
 <a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="30" width="40" /></a>
 <a href="https://instagram.com/brahim_chatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim_chatri" height="30" width="40" /></a>
-<p> </p>
+
+<p>&nbsp;</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
 
