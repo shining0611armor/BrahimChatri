@@ -11,12 +11,10 @@
 
 - ⚡ Fun Fact: **I'm constantly exploring new technologies and improving my coding skills!**
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-- **Languages**: Python
-- **Tools**: Git
-
-## Connect with Me
+### Connect with Me
 
 <a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="30" width="40" /></a>
