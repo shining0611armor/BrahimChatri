@@ -38,6 +38,7 @@
 <p>&nbsp;</p>
 <details> 
   <summary style="font-size: 20px;">Github Stats 📊</summary>
+  
 <p>&nbsp;</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
