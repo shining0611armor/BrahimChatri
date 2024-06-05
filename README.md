@@ -11,17 +11,32 @@
 
 - ⚡ Fun Fact: **I'm constantly exploring new technologies and improving my coding skills!**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<p> &nbsp;</p>
+<h2 align="left"> Connect with Me </h2>
 
-### Connect with Me
+<div align="center">
+  <a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="40" width="50" /></a>
+<a href="https://instagram.com/brahim_chatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim_chatri" height="40" width="50" /></a>
 
-<a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="30" width="40" /></a>
-<a href="https://instagram.com/brahim_chatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim_chatri" height="30" width="40" /></a>
+</div>
+
+<h2 align="left">Languages and Tools:</h3>
+<div align="center">
+  <img  src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" />
+  <img width="12" />
+  </div>
 
 <p>&nbsp;</p>
-
+<!--<details> <summary>Github Stats ⚡</summary> -->
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
