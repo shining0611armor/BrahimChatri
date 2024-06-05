@@ -36,7 +36,10 @@
   </div>
 
 <p>&nbsp;</p>
-<!--<details> <summary>Github Stats ⚡</summary> -->
+<details> 
+  <summary style="font-size: 20px;">Github Stats 📊</summary>
+<p>&nbsp;</p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
@@ -46,3 +49,4 @@
 </p>
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=BrahimChatri&theme=radical" alt="BrahimChatri" /></p>
+</details>
