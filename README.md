@@ -37,7 +37,7 @@
 
 <p>&nbsp;</p>
 <details> 
-  <summary style="font-size: 20px;">Github Stats 📊</summary>
+  <summary><h3>Github Stats 📊</h3></summary>
   
 <p>&nbsp;</p>
 
