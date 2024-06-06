@@ -51,3 +51,7 @@
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=BrahimChatri&theme=radical" alt="BrahimChatri" /></p>
 </details>
+
+<p align="center">
+ <img width="1000" src="./assets/github-snake.svg" alt="snake"/>
+</p>
