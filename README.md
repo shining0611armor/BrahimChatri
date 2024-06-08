@@ -23,15 +23,15 @@
 
 <h2 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img  src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <a href="https://python.org" target="blank"> <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <a href="https://www.git-scm.com/" target="blank"> <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <a href="https://github.com" target="blank"><img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" />
+  <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" /></a>
   <img width="12" />
   </div>
 
