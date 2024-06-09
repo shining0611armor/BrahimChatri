@@ -33,6 +33,8 @@
   <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="blank"><img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" /></a>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo" />
+  <img width="12" />
   </div>
 
 <p>&nbsp;</p>
@@ -41,13 +43,16 @@
   
 <p>&nbsp;</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="145"  /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=radical" alt="BrahimChatri" /></p>
+<p><img align= "center" src= "https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=dark&hide_border=false" alt="BrahimChatri's Profile Summary" height="145" /></p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrahimChatri&theme=radical" alt="BrahimChatri's Profile Summary"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="145"  /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brahimchatri&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph"  />
+
+
+<h3 align="left"> GitHub Trophies 🏆</h3>
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=BrahimChatri&theme=radical" alt="BrahimChatri" /></p>
 </details>
