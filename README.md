@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Software Development**
 
-- 📫 How to reach me: [tanalt030@gmail.com](mailto:tanalt030@gmail.com)
+- 📫 How to reach me: [brahim.chatri.dev@gmail.com](mailto:tanalt030@gmail.com)
 
 - ⚡ Fun Fact: **I'm constantly exploring new technologies and improving my coding skills!**
 
