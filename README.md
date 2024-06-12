@@ -51,11 +51,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brahimchatri&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph"  />
 
-<!--
-<h3 align="left"> GitHub Trophies 🏆</h3>
 
+<h3 align="left"> GitHub Trophies 🏆</h3>
+<br> </br>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=BrahimChatri&theme=radical" alt="BrahimChatri" /></p>
--->
+
 </details>
 
 <p align="center">
