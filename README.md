@@ -39,7 +39,7 @@
 
 <p>&nbsp;</p>
 <details> 
-  <summary><h3>Github Stats 📊</h3></summary>
+  <summary><h2>Github Stats 📊</h2></summary>
   
 <p>&nbsp;</p>
 
