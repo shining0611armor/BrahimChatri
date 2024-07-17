@@ -38,8 +38,7 @@
   </div>
 
 <p>&nbsp;</p>
-<details> 
-  <summary><h2>Github Stats 📊</h2></summary>
+<h2>Github Stats 📊</h2>
   
 <p>&nbsp;</p>
 
@@ -57,7 +56,8 @@
 <br> </br>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=BrahimChatri&theme=radical" alt="BrahimChatri" /></p>
 
-</details>
+<p>&nbsp;</p>
+
 
 <p align="center">
  <img width="1000" src="./assets/github-snake.svg" alt="snake"/>
